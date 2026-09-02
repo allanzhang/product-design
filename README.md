@@ -34,7 +34,7 @@ product-design/
 
 ```bash
 # 1. 克隆到 Codex 全局 skills 目录
-git clone https://github.com/<your-name>/codex-product-design-skill.git \
+git clone https://github.com/allanzhang/codex-product-design-skill.git \
   ~/.codex/skills/product-design
 
 # 2. 拉取品牌页模式所需的 Vercel 公开文件（产品 UI 模式不需要）
