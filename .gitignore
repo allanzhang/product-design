@@ -1,0 +1,4 @@
+# Vercel 第三方资产，由 scripts/fetch-vercel-assets.sh 拉取，不分发到仓库
+references/brand-pages/vercel-design.md
+assets/vercel-brand.css
+.DS_Store
